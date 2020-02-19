@@ -1,6 +1,6 @@
-echo PWD:
-echo "$PWD"
-echo Date:
+#!/bin/bash
+
+echo PWD: "$PWD"
+echo Date: 
 date
-echo PATH:
-echo "$PATH"
+echo PATH: "$PATH"
